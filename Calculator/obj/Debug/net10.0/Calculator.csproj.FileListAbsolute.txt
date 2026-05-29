@@ -1,0 +1,15 @@
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/bin/Debug/net10.0/Calculator
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/bin/Debug/net10.0/Calculator.deps.json
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/bin/Debug/net10.0/Calculator.runtimeconfig.json
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/bin/Debug/net10.0/Calculator.dll
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/bin/Debug/net10.0/Calculator.pdb
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfoInputs.cache
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfo.cs
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.sourcelink.json
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.dll
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/refint/Calculator.dll
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.pdb
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/Calculator.genruntimeconfig.cache
+/Users/eileenatashi/C++ Projects/CGPA-Calculator/C-Calculator/Calculator/obj/Debug/net10.0/ref/Calculator.dll
